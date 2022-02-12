@@ -1,3 +1,0 @@
-interface Greeter {
-    fun hello()
-}
